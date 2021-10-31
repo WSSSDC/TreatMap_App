@@ -45,5 +45,11 @@
 	<true/>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>We need to find you</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>API Connection</string>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_dartobservatory._tcp</string>
+	</array>
 </dict>
 </plist>
